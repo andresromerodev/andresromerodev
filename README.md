@@ -8,7 +8,7 @@
 - 🌱 Learning more about: **Crypto Currency, Web3 and NFTs**
 - ☁️ I'm a **AWS Cloud Practitoner** passionate about cloud technologies
 - 🔨 Creator of [Aguinaldo CR](https://www.aguinaldocr.xyz/) "Calcule su aguinaldo en Costa Rica"
-- 💬 Ping me about: **Wed Development**, **JavaScript** **Cloud Computing**, **Crypto**
+- 💬 Ping me about: **Wed Development**, **JavaScript**, **Cloud Computing**, **Crypto**
 - 📫 Reach me at: andresromeroh.cr@gmail.com
 - 🚀 Interests: traveling, cryptocurrency, food, skateboarding and pets 🐶
 - 🕹 Xbox Live ID / Oculus Quest 2: andresromeroh
