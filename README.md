@@ -5,7 +5,6 @@
 
 - 🏢 I'm currently working full-time as an engineer at **First Factory**
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.html`, `.scss`, `.json`, `.sql`, `.yml`, `.env`
-- 🌱 Learning more about: **Crypto Currency, Web3 and NFTs**
 - ☁️ I'm a **AWS Cloud Practitoner** passionate about cloud technologies
 - 🔨 Creator of [Aguinaldo CR](https://www.aguinaldocr.xyz/) "Calcule su aguinaldo en Costa Rica"
 - 💬 Ping me about: **Wed Development**, **JavaScript**, **Cloud Computing**, **Crypto**
