@@ -3,8 +3,8 @@
 
 #### I'm a Software Engineer based in Heredia, Costa Rica.
 
-- 🏢 I'm currently working full-time as an Software Engineer at **HatchWorks Technologies**
-- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.html`, `.scss`, `.json`, `.sql`, `.yml`, `.env`
+- 🏢 I'm currently working full-time as an Software Engineer at **HatchWorks**
+- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.html`, `.scss`, `.json`, `.sql`, `.yml`, `.tf` and `.env`
 - ☁️ I'm a **AWS Cloud Practitoner** who is passionate about cloud technologies
 - 🔨 Creator of [Aguinaldo CR](https://www.aguinaldocr.xyz/) "Calcule su aguinaldo en Costa Rica"
 - 💬 Ping me about: **Wed Development**, **JavaScript**, **Cloud Computing**, **Crypto**
