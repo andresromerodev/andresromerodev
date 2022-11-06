@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently working full-time as an Software Engineer at **HatchWorks**
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.html`, `.scss`, `.json`, `.sql`, `.yml`, `.tf` and `.env`
-- ☁️ I'm a **AWS Solutions Architect** who is passionate about cloud technologies
+- ☁️ I'm an **AWS Solutions Architect** who is passionate about cloud technologies
 - 🔨 Creator of [Aguinaldo CR](https://calculadora-aguinaldo.andresromero.dev/) "Calcule su aguinaldo en Costa Rica"
 - 💬 Ping me about: **Software Engineering**, **JavaScript**, **NodeJS**, **Cloud Computing** and **Crypto**
 - 📫 Reach me at: andresromeroh.cr@gmail.com
