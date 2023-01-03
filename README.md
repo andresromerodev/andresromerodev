@@ -4,7 +4,7 @@
 #### I'm a Software Engineer based in Heredia, Costa Rica.
 
 - 🏢 I'm currently working full-time as a Software Engineer at **Lunchbox**
-- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.html`, `.scss`, `.json`, `.sql`, `.yml`, `.tf` and `.env`
+- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.jsx`, `.tsx`, `.vue`, `.html`, `.scss`, `.json`, `.sql`, `.yml`, `.tf` and `.env`
 - ☁️ I'm an **AWS Solutions Architect** who is passionate about cloud technologies
 - 🔨 Creator of [Aguinaldo CR](https://calculadora-aguinaldo.andresromero.dev/) "Calcule su aguinaldo en Costa Rica"
 - 💬 Ping me about: **Software Engineering**, **JavaScript**, **NodeJS**, **Cloud Computing** and **Crypto**
