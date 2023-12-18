@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.go`, `.jsx`, `.tsx`, `.vue`, `.html`, `.css`, `.json`, `.sql`, `.yml`, and `.tf`
 - ☁️ I'm an **AWS Certified Solutions Architect** who is passionate about cloud technologies and services
 - 💬 Ping me about: **Software Engineering** and **Cloud Computing**
-- 📫 Reach me at: andresromero.dev@gmail.com
+- 📫 Reach me at: hello@andresromero.dev
 - 🚀 Interests: traveling, technology, food, skateboarding and pets 🐶
 - 🎮 PlayStation 5 / Nintendo Switch: andresromerodev
 
