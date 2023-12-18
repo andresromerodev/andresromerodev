@@ -9,7 +9,6 @@
 - 💬 Ping me about: **Software Engineering** and **Cloud Computing**
 - 📫 Reach me at: andresromero.dev@gmail.com
 - 🚀 Interests: traveling, technology, food, skateboarding and pets 🐶
-- 🕹 Xbox One / Oculus Quest 2: andresromeroh
 - 🎮 PlayStation 5 / Nintendo Switch: andresromerodev
 
 #### Find me around the web 🌎:
