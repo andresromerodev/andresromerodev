@@ -9,7 +9,7 @@
 - 💬 Ping me about: **Software Engineering** and **Cloud Computing**
 - 📫 Reach me at: hello@andresromero.dev
 - 🚀 Interests: traveling, technology, food and skateboarding
-- 🎮 PlayStation 5 / Oculus Quest 2: @andresromerodev
+- 🎮 Steam / PlayStation 5 / Oculus Quest 2: @andresromerodev
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/andresromerodev/">LinkedIn</a>
