@@ -3,7 +3,7 @@
 
 #### I'm a Software Engineer from Costa Rica.🌴
 
-- 🏢 I'm currently working at [Lunchbox](https://www.lunchboxentertainment.com) where I'm part of the Online Services team building a revolutionary new MOBA
+- 🏢 I'm currently working at [Lunchbox](https://www.lunchboxentertainment.com) where I'm part of the Game Services Team building a revolutionary new MOBA
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.go`, `.jsx`, `.tsx`, `.vue`, `.html`, `.css`, `.json`, `.sql`, `.yml`, and `.tf`
 - ☁️ I'm an **AWS Certified Solutions Architect** who is passionate about cloud technologies and services
 - 💬 Ping me about: **Software Engineering** and **Cloud Computing**
