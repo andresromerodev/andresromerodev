@@ -14,10 +14,3 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/andresromerodev/">LinkedIn</a>
 - 🌐 Updating my personal website with my projects on <a href="https://andresromero.dev/">Andresromero.dev</a>
-
-
----
-
-With ❤️ [andresromerodev](https://andresromero.dev/)
-
-Enjoying my content ? [Buy Me a Coffee](https://www.buymeacoffee.com/andresromerodev) ☕️
