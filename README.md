@@ -9,7 +9,7 @@
 - 💬 Ping me about: **Software Engineering**, **Cloud Computing**, **AI** and **Game Development**
 - 📫 Reach me at: andresromero.dev@gmail.com
 - 🚀 Interests: traveling, technology, food and skateboarding
-- 🎮 Steam / PlayStation 5 / Meta Quest 2: @andresromerodev
+- 🎮 Steam / PlayStation / Meta Quest: @andresromerodev
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/andresromerodev/">LinkedIn</a>
