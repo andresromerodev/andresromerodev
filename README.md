@@ -4,11 +4,11 @@
 #### I'm a Software Engineer from Costa Rica.🌴
 
 - 🏢 I currently work in the Games Industry building the backend services and infrastructure that keep online games running.
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.go`, `.jsx`, `.tsx`, `.vue`, `.html`, `.css`, `.json`, `.sql`, `.yml`, and `.tf`
-- ☁️ I'm an **AWS Certified Solutions Architect** who is passionate about cloud technologies and services
+- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.go`, `.cs`, `.jsx`, `.tsx`, `.vue`, `.html`, `.css`, `.json`, `.sql`, `.yml`, and `.tf`
+- ☁️ I'm an **AWS Certified Solutions Architect** who is passionate about cloud technologies
 - 💬 Ping me about: **Software Engineering**, **Cloud Computing**, **AI** and **Game Development**
 - 📫 Reach me at: andresromero.dev@gmail.com
-- 🚀 Interests: traveling, technology, gym and food
+- 🚀 Interests: traveling, technology, games, gym and food
 - 🎮 Steam / PlayStation username: @andresromerodev
 
 #### Find me around the web 🌎:
